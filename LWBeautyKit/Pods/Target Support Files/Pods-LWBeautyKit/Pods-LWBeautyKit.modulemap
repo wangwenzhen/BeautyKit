@@ -1,0 +1,6 @@
+framework module Pods_LWBeautyKit {
+  umbrella header "Pods-LWBeautyKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
